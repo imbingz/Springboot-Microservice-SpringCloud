@@ -1,5 +1,14 @@
 # Springboot-Microservice-SpringCloud_API_Gateway
 
+1)In this I created two service one is Employee microservice and another one is Salary microservice and both this service can communicated with each other.
+
+2)For centerlized Communication I use Spring Cloud API Gateway through this gateway user can communicated with any microservice.
+
+3)For Security I use Spring Security which is implemented in User microservice.
+
+4)Employee details are comming for Employee database through Employee microservice and Salary details are comming for Salary database through Salary microservice.
+
+
 ## Screen-Shots
 
 ## 1)Home Page or Login Page
