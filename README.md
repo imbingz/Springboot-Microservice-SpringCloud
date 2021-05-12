@@ -11,5 +11,5 @@
 ## Salary Page
 ![Screenshot (19)](https://user-images.githubusercontent.com/71216473/117966130-30542880-b341-11eb-88a2-f3bd4436c621.png)
 
-##Logout Page
+## Logout Page
 ![Screenshot (20)](https://user-images.githubusercontent.com/71216473/117966152-3944fa00-b341-11eb-9eeb-f59f4e733433.png)
